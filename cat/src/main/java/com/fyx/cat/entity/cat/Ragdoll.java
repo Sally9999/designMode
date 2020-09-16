@@ -1,7 +1,7 @@
 package com.fyx.cat.entity.cat;
 
 import com.fyx.cat.enums.CatTypeEnum;
-import com.wusy.cat.NumberUtil;
+import com.fyx.cat.util.NumberUtil;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Random;
